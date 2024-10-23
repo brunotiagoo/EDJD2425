@@ -1,8 +1,5 @@
 package ipca.examples.dailynews.ui
 
-import androidx.compose.runtime.getValue
-import androidx.compose.runtime.mutableStateOf
-import androidx.compose.runtime.setValue
 import androidx.lifecycle.ViewModel
 import ipca.examples.dailynews.models.Article
 import kotlinx.coroutines.flow.MutableStateFlow
@@ -36,7 +33,7 @@ class HomeViewModel : ViewModel() {
         val client = OkHttpClient()
 
         val request = Request.Builder()
-            .url("https://newsapi.org/v2/top-headlines?country=us&apiKey=1765f87e4ebc40229e80fd0f75b6416c")
+            .url("https://newsapi.org/v2/top-headlines?country=us&apiKey=e037d83f315043faa2734fd6effe700f")
             .build()
 
         client.newCall(request).enqueue(object : Callback {
