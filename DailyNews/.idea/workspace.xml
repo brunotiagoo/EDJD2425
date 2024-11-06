@@ -9,33 +9,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7d335eb-298a-4906-8aab-3795e99bbd4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Calulator/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Calulator/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Calulator/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Calulator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Calulator/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/ipca/examples/dailynews/ExampleInstrumentedTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ipca/examples/dailynews/Helpers.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ipca/examples/dailynews/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ipca/examples/dailynews/models/Article.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ipca/examples/dailynews/ui/ArticleDetail.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ipca/examples/dailynews/ui/HomeView.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ipca/examples/dailynews/ui/HomeViewModel.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ipca/examples/dailynews/ui/RowArticle.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ipca/examples/dailynews/ui/theme/Color.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ipca/examples/dailynews/ui/theme/Theme.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ipca/examples/dailynews/ui/theme/Type.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/ipca/examples/dailynews/ExampleUnitTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/libs.versions.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+    <list default="true" id="e7d335eb-298a-4906-8aab-3795e99bbd4f" name="Changes" comment="Commit News Final">
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/E02DJPM.app.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +52,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Android App.app.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
@@ -169,6 +145,27 @@
       <option name="presentableId" value="Default" />
       <updated>1730196982442</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit News Final">
+      <option name="closed" value="true" />
+      <created>1730197330564</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730197330564</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit News Final">
+      <option name="closed" value="true" />
+      <created>1730197345379</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730197345379</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit News Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit News Final" />
   </component>
 </project>
